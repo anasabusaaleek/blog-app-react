@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "text": "sdfd",
+      "comments": [
+        {
+          "text": "SDfasdfasdf",
+          "commentId": "2f569d6b-59b6-4bf5-a03f-375b5c8e4fcc"
+        },
+        {
+          "text": "SDfasdfrdfgnnnnnnnnnnnn",
+          "commentId": "60da5a05-1c88-43a1-81c0-13553b8b2d28"
+        },
+        {
+          "text": "sdfa",
+          "commentId": "dc1c09a6-10e6-4787-8da7-b96fbe397a38"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
